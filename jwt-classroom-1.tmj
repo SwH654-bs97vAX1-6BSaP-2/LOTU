@@ -1477,10 +1477,10 @@
         0,
         0,
         0,
-        1,
-        1,
-        1,
-        1,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -9953,12 +9953,12 @@
       "y": 0
     }
   ],
-  "tiledversion": "1.8.4",
+  "tiledversion": "1.10.1",
   "tilesets": [
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "jwt-classroom-1-chunk-1-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-1-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9984,7 +9984,7 @@
     {
       "columns": 16,
       "firstgid": 257,
-      "image": "jwt-classroom-1-chunk-2-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-2-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -9999,7 +9999,7 @@
     {
       "columns": 16,
       "firstgid": 513,
-      "image": "jwt-classroom-1-chunk-3-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-3-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10014,7 +10014,7 @@
     {
       "columns": 16,
       "firstgid": 769,
-      "image": "jwt-classroom-1-chunk-4-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-4-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10029,7 +10029,7 @@
     {
       "columns": 16,
       "firstgid": 1025,
-      "image": "jwt-classroom-1-chunk-5-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-5-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10044,7 +10044,7 @@
     {
       "columns": 16,
       "firstgid": 1281,
-      "image": "jwt-classroom-1-chunk-6-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-6-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10059,7 +10059,7 @@
     {
       "columns": 16,
       "firstgid": 1537,
-      "image": "jwt-classroom-1-chunk-7-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-7-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10074,7 +10074,7 @@
     {
       "columns": 16,
       "firstgid": 1793,
-      "image": "jwt-classroom-1-chunk-8-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-8-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10089,7 +10089,7 @@
     {
       "columns": 16,
       "firstgid": 2049,
-      "image": "jwt-classroom-1-chunk-9-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-9-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10104,7 +10104,7 @@
     {
       "columns": 16,
       "firstgid": 2305,
-      "image": "jwt-classroom-1-chunk-10-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-10-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10119,7 +10119,7 @@
     {
       "columns": 16,
       "firstgid": 2561,
-      "image": "jwt-classroom-1-chunk-11-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-11-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10134,7 +10134,7 @@
     {
       "columns": 16,
       "firstgid": 2817,
-      "image": "jwt-classroom-1-chunk-12-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-12-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10149,7 +10149,7 @@
     {
       "columns": 16,
       "firstgid": 3073,
-      "image": "jwt-classroom-1-chunk-13-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-13-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10164,7 +10164,7 @@
     {
       "columns": 16,
       "firstgid": 3329,
-      "image": "jwt-classroom-1-chunk-14-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-14-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10179,7 +10179,7 @@
     {
       "columns": 16,
       "firstgid": 3585,
-      "image": "jwt-classroom-1-chunk-15-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-15-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10194,7 +10194,7 @@
     {
       "columns": 16,
       "firstgid": 3841,
-      "image": "jwt-classroom-1-chunk-16-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-16-45cdc7b9.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -10209,7 +10209,7 @@
     {
       "columns": 15,
       "firstgid": 4097,
-      "image": "jwt-classroom-1-chunk-17-7b72abff.png",
+      "image": "jwt-classroom-1-chunk-17-45cdc7b9.png",
       "imageheight": 480,
       "imagewidth": 480,
       "margin": 0,
@@ -10249,6 +10249,6 @@
   "renderorder": "right-down",
   "tileheight": 32,
   "tilewidth": 32,
-  "version": "1.8",
+  "version": "1.10",
   "width": 60
 }
